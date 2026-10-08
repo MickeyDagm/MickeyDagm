@@ -10,169 +10,88 @@
 
 ## 🚀 About Me
 
-🎓 **Information Systems Graduate** &nbsp; | &nbsp; 🧑‍💻 **Full-Stack Developer** &nbsp; | &nbsp; ⚙️ **Backend-Focused**
+🎓 **Student** &nbsp; | &nbsp; 🧑‍💻 **Freelancer** &nbsp; | &nbsp; 🌐 **Web Developer**
 
-I build web applications with a strong focus on backend architecture, APIs,
-databases, and clean, maintainable systems.
-
-> _“Music and coding is just lit.”_ 🎶💻
-
-I enjoy working with **Python, Django, Node.js, Next.js, React, and PostgreSQL**
-to turn ideas into practical web applications.
+> _“Music and coding is just lit”_ 🎶💻
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" alt="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" style="margin: 0 20px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MickeyDagm&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickeyDagm&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MickeyDagm&theme=dark&hide_border=false" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MickeyDagm&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 💼 Featured Projects
 
 <div align="center">
 
-### 📚 Book Recommendation
-
-**[Book Recommendation](https://github.com/MickeyDagm/Book-Recommendation)**
-
-A desktop application built with **Python + Tkinter** that recommends books
-using **TF-IDF and cosine similarity**.
-
-✨ Offline usage • Smart recommendations • User-friendly UI
+🎨 **[Book Recommendation](https://github.com/MickeyDagm/Book-Recommendation)**  
+_A desktop application built with Python + Tkinter that recommends books using TF-IDF and cosine similarity._  
+✨ Features: Offline usage • Smart recommendations • User-friendly UI
 
 ---
 
-### 📝 MDAF Online Tutor
-
-**[MDAF Online Tutor](https://github.com/MickeyDagm/MDAFOnlineTutor)**
-
-An online tutoring platform built with **Laravel + Bagisto** based on a
-real business plan.
-
-✨ Tutor profiles • Course listings • Secure payments • Commission model
+📝 **[MDAF Online Tutor](https://github.com/MickeyDagm/MDAFOnlineTutor)**  
+_An online tutoring platform built with Laravel + Bagisto based on a real business plan._  
+✨ Features: Tutor profiles • Course listings • Secure payment system • Commission model
 
 ---
 
-### 🎬 Movie Search App
-
-**[Movie Search App](https://github.com/MickeyDagm/MovieSearchApp)**
-
-A web application that allows users to search for movies and explore
-movie details using a movie database API.
-
-✨ Fast search • Movie details • Responsive UI
+🎬 **[Movie Search App](https://github.com/MickeyDagm/MovieSearchApp)**  
+_A web app that allows users to search for movies and explore details using a movie database API._  
+✨ Features: Fast search • Movie details • Responsive UI
 
 ---
 
-### ⚡ Employee Attrition System
-
-**[Employee Attrition System](https://github.com/MickeyDagm/EmployeeAttritionSystem)**
-
-A predictive analytics system that helps identify potential employee
-attrition using employee data and machine learning.
-
-✨ Machine learning • Data insights • Visual reports
+⚡ **[Employee Attrition System](https://github.com/MickeyDagm/EmployeeAttritionSystem)**  
+_A predictive analytics system for HR that helps identify potential employee attrition._  
+✨ Features: Machine learning model • Employee data insights • Visual reports
 
 </div>
+
 
 ---
 
 ## 🌐 Portfolio
 
-<div align="center">
-
-<a href="https://dagmawiportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</div>
+🔗 [dagmawiportfolio.netlify.app](https://dagmawiportfolio.netlify.app/)
 
 ---
 
 ## 🎧 Interests
 
-- 🎶 Music
-- 👨‍💻 Coding
-- 🚀 Building web applications
-- 🧠 Learning new technologies
+- 🎶 Music  
+- 👨‍💻 Coding  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-<div align="center">
+Let’s collaborate or chat about tech & music!  
 
-<a href="https://github.com/MickeyDagm">
-<img src="https://img.shields.io/badge/GitHub-MickeyDagm-000000?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://dagmawiportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet?style=for-the-badge)](https://dagmawiportfolio.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-MickeyDagm-000000?style=for-the-badge&logo=github)](https://github.com/MickeyDagm)
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving hand"/>
+  <br/>
+  <b>Thanks for visiting! See you around 👋</b>
+</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving hand"/>
 
-<br/>
 
-<b>Thanks for visiting! See you around 👋</b>
-
-</div>
 
 <div align="center">
 
